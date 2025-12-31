@@ -1,3 +1,4 @@
+// using use state to create a simple counter component.
 import React, { useState } from 'react';
 import "./Day1.css";
 import { resolveConfig } from 'vite';
